@@ -1,0 +1,16 @@
+{
+  "name": "oxorak-community-youtube",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "googleapis": "^152.0.0",
+    "multer": "^2.0.2",
+    "express-session": "^1.18.2"
+  }
+}
